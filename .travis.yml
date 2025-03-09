@@ -4,6 +4,7 @@ node_js:
   - '0.10'
   - '0.12'
   - '6'
+dist: precise
 before_install:
   # Check if the Node.js version is 0.10 and install spawn-sync
   - |
